@@ -1,0 +1,353 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202204 will be lost/reset.
+# Last config file used to build this data file was /home/tricarco/tmp/awstats/ssl/awstats.tricar.com.vn.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2673                
+POS_VISITOR 7732                
+POS_DAY 8732                
+POS_DOMAIN 3333                
+POS_LOGIN 3652                
+POS_ROBOT 3807                
+POS_WORMS 4103                
+POS_EMAILSENDER 4234                
+POS_EMAILRECEIVER 4377                
+POS_SESSION 8959                
+POS_SIDER 9137                
+POS_FILETYPES 4512                
+POS_DOWNLOADS 4812                
+POS_OS 4860                
+POS_BROWSER 5074                
+POS_SCREENSIZE 5636                
+POS_UNKNOWNREFERER 5710                
+POS_UNKNOWNREFERERBROWSER 5797                
+POS_ORIGIN 5879                
+POS_SEREFERRALS 6017                
+POS_PAGEREFS 6171                
+POS_SEARCHWORDS 6386                
+POS_KEYWORDS 6538                
+POS_MISC 2337                
+POS_ERRORS 6597                
+POS_CLUSTER 3508                
+POS_SIDER_404 6745                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220501074748 1 0 16468668882002
+FirstTime 0
+LastTime 20220429171649
+LastUpdate 20220501180002 1 0 0 0 0
+TotalVisits 29                  
+TotalUnique 22                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 23                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 76508 6 6 7428
+1 1 1 38254 4 5 4952
+2 8 60 1406518 2 6 2178
+3 1 1 12287 11 13 20962
+4 0 0 0 1 2 1238
+5 0 0 0 0 4 1504
+6 0 0 0 2 2 2476
+7 0 0 0 3 3 3714
+8 0 0 0 3 4 1238
+9 0 0 0 10 10 7428
+10 14 203 2936453 2 2 752
+11 0 0 0 1 2 1238
+12 0 0 0 3 4 3714
+13 91 359 7412541 16 59 76989
+14 33 141 2920945 79 85 40022
+15 21 67 1293079 3 53 17222
+16 2 2 41697 1 16 6293
+17 4 67 1750407 9 18 38273
+18 0 0 0 1 1 1238
+19 84 442 10773228 51 80 17886
+20 16 58 1913587 70 83 35668
+21 0 0 0 0 0 0
+22 4 4 92529 1 2 1575
+23 1 1 38254 7 11 10170
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+vn 228 851 19383809
+us 35 349 8274643
+cn 14 203 2936453
+eu 2 2 76508
+jp 1 1 11308
+ru 1 1 12287
+kr 1 1 11279
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Apache\-HttpClient/ 6 67854 20220429200114 0
+unknown 2 48 20220425194508 2
+Go\-http\-client/ 2 24583 20220428144448 0
+facebookexternalhit/ 1 11309 20220425134938 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+js 369 5500004 0 0
+png 162 2010965 0 0
+woff 18 1323368 0 0
+Unknown 37 115823 0 0
+php 20 176440 0 0
+webp 44 652244 0 0
+css 230 2968888 0 0
+gif 16 7091 0 0
+ttf 53 3760740 0 0
+woff2 28 2039456 0 0
+html 126 2781403 0 0
+jpg 305 9369865 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win8 2 0
+androidnougat 1 1
+ios_iphone 59 7
+win7 37 5
+linux 12 0
+androidoreo 203 14
+macosx15 41 1
+macosx14 1 1
+win10 1050 251
+macosx12 1 1
+winnt 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+chrome94.0.4606.61 1 1
+safari11.0.3 1 1
+chrome37.0.2049.0 1 1
+chrome83.0.4103.106 14 4
+chrome61.0.3163.128 203 14
+opera80.0.4170.63 17 0
+safari12.1.1 58 6
+chrome95.0.4638.69 23 0
+chrome76.0.3809.132 1 1
+safari10.0 1 1
+chrome79.0.3945.79 118 14
+safari15.0 24 1
+chrome64.0.3282.186 1 1
+firefox91.0 17 1
+chrome83.0.4103.61 36 4
+chrome59.0.3071.125 1 1
+chrome96.0.4664.45 20 0
+chrome76.0.3809.71 60 8
+chrome100.0.4896.127 790 222
+firefox58.0 1 1
+chrome32.0.1667.0 2 0
+chrome98.0.4758.80 1 0
+chrome96.0.4664.55 17 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 35 180
+From1 0 0
+From2 2 2
+From3 4 4
+From4 241 1222
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+baidu 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://share02.vhost.vn:2083 3 3
+http://webmail.tricar.com.vn 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+500 2 36485
+403 3 3687
+303 3 372
+307 115 14260
+206 43 43
+404 285 133221
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 11
+/public/frontend/resources/library/css/fonts/riode.woff 21 http://tricar.com.vn/
+/upload/image/admin/158967678_1544377955951724_1034961039485239859_n.jpg 6 https://tricar.com.vn/backend/dashboard/dashboard/index
+/public/frontend/resources/library/css/fonts/riode.svg 1 http://tricar.com.vn/
+/ 67 -
+/images/cart/product-1.jpg 112 https://tricar.com.vn/
+/sitemap.xml 1 -
+/upload/image/partner-1.png 3 https://tricar.com.vn/backend/dashboard/dashboard/index
+/upload/image/favicon-32x32.png 24 http://tricar.com.vn/
+/public/frontend/resources/library/css/fonts/riode.ttf 21 http://tricar.com.vn/
+/.well-known/pki-validation/B81F2B964DB1F1470B781BBF2ECBC4AF.txt 28 -
+/.DS_Store 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 23
+171.227.255.238 128 392 10650194 20220429131729
+14.248.151.88 49 189 3322795 20220425134932
+113.161.34.230 37 135 2715959 20220425155922
+65.154.226.220 18 154 3274054 20220425193259
+42.236.10.84 10 62 1560725 20220426102402
+65.154.226.171 8 60 1406518 20220426020450
+27.73.62.128 7 75 1434395 20220425194510
+42.116.153.160 7 57 1255306 20220425225951
+42.236.10.75 2 46 369235 20220426102343
+54.227.32.154 2 128 3433142 20220429171649
+54.237.250.240 2 2 22574 20220429171526
+42.236.10.93 2 95 1006493 20220426102218
+44.193.196.64 1 1 12285 20220420225944
+93.119.227.91 1 1 38254 20220420235825
+151.106.120.184 1 1 38254 20220420225710
+69.4.87.74 1 1 38254 20220421001616
+93.119.227.19 1 1 38254 20220421012813
+112.72.253.154 1 1 11279 20220429171519
+69.4.89.106 1 1 38254 20220421001724
+8.218.11.241 1 1 11308 20220425171629
+89.104.100.136 1 1 12287 20220422033733
+118.241.39.158 1 1 11308 20220427130525
+49.213.78.31 0 3 5160 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20220420 3 3 88793 3
+20220421 3 3 114762 3
+20220422 1 1 12287 1
+20220425 165 820 16614527 10
+20220426 22 263 4342971 4
+20220427 73 198 6230534 4
+20220429 15 120 3302413 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 2
+0s-30s 21
+30mn-1h 3
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 25
+/ 126 2781403 27 23
+/public/frontend/resources/fonts/riode.ttf 27 1473123 2 0
+/public/backend/plugin/ckfinder/core/connector/php/connector.php 20 176440 0 1
+/public/frontend/resources/fonts/fontawesome-free-5.15.4-web/webfonts/fa-solid-900.ttf 20 1880073 0 1
+/public/frontend/resources/fonts/fontawesome-free-5.15.4-web/webfonts/fa-solid-900.woff2 16 1177472 0 0
+/ajax/product/update_price 12 633 0 0
+/public/frontend/resources/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2 9 694440 0 3
+/public/frontend/resources/fonts/riode.woff 7 399476 0 0
+/public/frontend/resources/fonts/fontawesome-free-5.15.4-web/webfonts/fa-solid-900.woff 7 693304 0 0
+/public/frontend/resources/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf 6 407544 0 0
+/notfound 5 0 0 0
+/vinfast 4 22753 0 0
+/admin 3 3678 0 0
+/porsche 3 17014 0 0
+/public/frontend/resources/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff 3 213140 0 0
+/backend/dashboard/dashboard/index 3 21817 0 0
+/accord-hybrid 2 11337 0 0
+/public/backend/font-awesome/fonts/fontawesome-webfont.woff2 2 154320 0 0
+/public/frontend/resources/fonts/fontawesome-free-5.15.4-web/webfonts/fa-regular-400.woff2 1 13224 0 0
+/cr-v-hybrid 1 7973 0 0
+/thanh-phan 1 8009 0 0
+/public/frontend/resources/fonts/UTM_Avo.woff 1 17448 0 1
+/backend/product/product/create 1 9232 0 0
+/rolls-royce 1 5665 0 0
+/backend/product/product/index 1 7712 0 0
+END_SIDER

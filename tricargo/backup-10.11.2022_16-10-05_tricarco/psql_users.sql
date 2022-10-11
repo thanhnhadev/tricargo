@@ -1,0 +1,1 @@
+CREATE USER "tricarco" WITH PASSWORD E'md5af1350c77bd75fd9b810cbd3d19e99a1';

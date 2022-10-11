@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/tricarco/public_html
+group: tricarco
+hascgi: 1
+homedir: /home/tricarco
+ip: 103.27.60.222
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@tricar.com.vn
+serveralias: mail.tricar.com.vn www.tricar.com.vn
+servername: tricar.com.vn
+ssl: 1
+usecanonicalname: 'Off'
+user: tricarco
+userdirprotect: ''

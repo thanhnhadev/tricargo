@@ -1,0 +1,250 @@
+# Webalizer V2.23-08 Incremental Data - 10/10/2022 00:59:16
+2022 10 10 0 59 16
+79 71 13 33 5 9 1192336 27 19 0
+1 2 19 1 10
+36 34 601819 4 10 7
+2 0 943 1 0 0
+29 28 344449 5 10 5
+2 1 11678 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 1262 2 0 0
+4 4 176950 4 4 4
+2 2 43551 1 1 1
+2 1 11684 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 1 12290 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+19 18 193044 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+13 12 135216 3
+1 1 48232 1
+0 0 0 0
+14 13 309553 6
+3 3 62858 1
+2 1 11678 1
+0 0 0 0
+1 1 11309 1
+13 11 227755 2
+2 2 43551 1
+0 0 0 0
+0 0 0 0
+8 8 136850 6
+0
+0
+0
+71
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/public/frontend/resources/library/css/carousel.css
+0 1 7814716426037852777 1016 0 0
+/public/frontend/resources/uikit/js/components/grid.min.js
+0 1 0 2410 0 0
+/porsche
+0 2 0 11343 2 2
+/public/frontend/resources/uikit/css/components/slideshow.min.css
+0 1 0 442 0 0
+/public/frontend/resources/uikit/css/components/accordion.min.css
+0 1 0 205 0 0
+/public/frontend/resources/uikit/js/components/slideshow.min.js
+0 2 0 8310 0 0
+/public/frontend/resources/library/css/all.css
+0 2 0 96088 0 0
+/public/backend/js/plugins/toastr/toastr.min.js
+0 2 0 3128 0 0
+/public/frontend/resources/library/css/riode.css
+0 2 0 104088 0 0
+/lexus
+0 1 0 5685 1 0
+/public/frontend/resources/uikit/js/uikit.min.js
+0 1 0 14763 0 0
+/public/frontend/resources/plugins.js
+0 3 0 160101 0 0
+/public/frontend/resources/function.js
+0 2 0 23440 0 0
+/favicon.ico
+0 1 0 11368 0 0
+/public/backend/css/plugins/toastr/toastr.min.css
+0 3 0 7935 0 0
+/public/frontend/resources/uikit/js/components/sticky.min.js
+0 1 0 1785 0 0
+/public/frontend/resources/plugins/OwlCarousel2-2.3.4/dist/owl.carousel.min.js
+0 1 0 11139 0 0
+/public/frontend/resources/library/js/main.min.js
+0 2 0 25640 0 0
+/public/frontend/resources/cart.js
+0 1 0 3828 0 0
+/public/frontend/resources/plugins/jquery.lazyload.min.js
+0 1 0 1834 0 0
+/upload/image/lexus.jpg
+0 1 0 14531 0 0
+/public/frontend/resources/fonts/fontawesome-free-5.15.4-web/css/all.min.css
+0 1 0 12370 0 0
+/public/frontend/resources/style.css
+0 2 0 12190 0 0
+/
+0 20 0 464439 15 4
+/toyota
+0 1 0 5683 1 0
+/public/frontend/resources/uikit/css/uikit.modify.css
+0 2 0 36072 0 0
+/public/frontend/resources/library/js/system.js
+0 3 0 18309 0 0
+/public/frontend/resources/library/js/all.js
+0 1 0 49150 0 0
+/public/frontend/resources/library/js/jquery.js
+0 1 0 38486 0 0
+/public/frontend/resources/library/css/general.css
+0 2 0 40050 0 0
+/robots.txt
+0 3 0 72 0 0
+/public/frontend/resources/plugins/lazyload.min.js
+0 2 0 1690 0 0
+/public/frontend/resources/plugins/select2/dist/css/select2.min.css
+0 1 0 1813 0 0
+# End Of Table - urls
+# -sites- (monthly)
+105.48.172.34.bc.googleusercontent.com
+0 1 1 11309 1 1664650690
+/
+193.235.141.172
+0 2 1 11684 1 1665363552
+/
+crawl-66-249-64-210.googlebot.com
+0 7 7 127191 1 1664838928
+/
+165.22.43.233
+0 1 1 48232 1 1665232952
+/
+crawl-66-249-79-241.googlebot.com
+0 49 44 758819 4 1664781119
+/
+193.235.141.181
+0 2 1 11678 1 1664900372
+/
+167.99.59.9
+0 1 1 32183 1 1665239798
+/
+64.225.55.232
+0 1 1 48303 1 1665241349
+/
+c8636932-c2ba-4d9c-ad14-8d1bb437d4c0.fr-par-2.baremetal.scw.cloud
+0 2 2 43551 1 1665346930
+/
+crawl-66-249-79-243.googlebot.com
+0 8 7 35762 4 1664781090
+/
+crawl-66-249-79-245.googlebot.com
+0 3 3 5733 1 1664781083
+/lexus
+jobqueue-listener.jobqueue.netcraft.com-u142e5f1446bf11ed94e0b7a1d62a0f12u-digitalocean
+0 1 1 48232 1 1665238362
+/
+crawl-66-249-64-212.googlebot.com
+0 1 1 9659 1 1664838919
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+193.235.141.172
+0 2 1 11684 1 1665363552
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://tricar.com.vn/
+0 5
+https://tricar.com.vn/porsche
+0 20
+- (Direct Request)
+0 25
+https://tricar.com.vn/toyota
+0 11
+https://tricar.com.vn/lexus
+0 18
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 5
+Googlebot-Image/1.0
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/105.0.5
+0 12
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.125 Mobile
+0 46
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

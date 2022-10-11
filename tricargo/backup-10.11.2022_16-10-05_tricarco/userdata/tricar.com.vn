@@ -1,0 +1,26 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/tricar.com.vn
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/tricar.com.vn-bytes_log
+documentroot: /home/tricarco/public_html
+group: tricarco
+hascgi: 1
+homedir: /home/tricarco
+ip: 103.27.60.222
+owner: root
+phpopenbasedirprotect: 1
+phpversion: ea-php74
+port: 80
+scriptalias: 
+  - 
+    path: /home/tricarco/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@tricar.com.vn
+serveralias: mail.tricar.com.vn www.tricar.com.vn
+servername: tricar.com.vn
+usecanonicalname: 'Off'
+user: tricarco

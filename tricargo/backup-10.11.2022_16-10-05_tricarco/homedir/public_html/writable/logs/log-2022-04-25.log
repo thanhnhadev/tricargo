@@ -1,0 +1,27 @@
+CRITICAL - 2022-04-25 01:43:11 --> Unable to connect to the database.
+#0 /home/tricarco/public_html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/tricarco/public_html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT `keyword...', Array, false)
+#2 /home/tricarco/public_html/app/Models/AutoloadModel.php(76): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/tricarco/public_html/app/Helpers/mydatafrontend_helper.php(166): App\Models\AutoloadModel->_get_where(Array, true)
+#4 /home/tricarco/public_html/app/Controllers/FrontendController.php(27): get_general('vi')
+#5 /home/tricarco/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(891): App\Controllers\FrontendController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#6 /home/tricarco/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#7 /home/tricarco/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/tricarco/public_html/index.php(48): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-25 01:45:41 --> Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+#0 /home/tricarco/public_html/vendor/codeigniter4/framework/system/View/View.php(246): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Unparenthesized...', '/home/tricarco/...', 526, Array)
+#1 /home/tricarco/public_html/vendor/codeigniter4/framework/system/View/View.php(246): include()
+#2 /home/tricarco/public_html/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('backend/product...', Array, true)
+#3 /home/tricarco/public_html/app/Views/backend/product/product/create.php(12): view('backend/product...')
+#4 /home/tricarco/public_html/vendor/codeigniter4/framework/system/View/View.php(246): include('/home/tricarco/...')
+#5 /home/tricarco/public_html/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('backend/product...', Array, true)
+#6 /home/tricarco/public_html/app/Views/backend/dashboard/layout/home.php(44): view('backend/product...')
+#7 /home/tricarco/public_html/vendor/codeigniter4/framework/system/View/View.php(246): include('/home/tricarco/...')
+#8 /home/tricarco/public_html/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('backend/dashboa...', Array, true)
+#9 /home/tricarco/public_html/app/Controllers/Backend/Product/Product.php(181): view('backend/dashboa...', Array)
+#10 /home/tricarco/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Backend\Product\Product->create()
+#11 /home/tricarco/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Product\Product))
+#12 /home/tricarco/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 /home/tricarco/public_html/index.php(48): CodeIgniter\CodeIgniter->run()
+#14 {main}

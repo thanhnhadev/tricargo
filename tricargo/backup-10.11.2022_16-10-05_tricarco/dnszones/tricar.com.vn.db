@@ -1,0 +1,24 @@
+; cPanel first:102.0.11 (update_time):1650361506 Cpanel::ZoneFile::VERSION:1.3 hostname:share02.vhost.vn latest:102.0.11
+; Zone file for tricar.com.vn
+$TTL 14400
+tricar.com.vn.	86400	IN	SOA	ns3.vhostdns.net.	hunglq.vhost.vn.	(
+						2022041902 ;Serial Number
+						3600 ;refresh
+						1800 ;retry
+						1209600 ;expire
+						86400	)
+tricar.com.vn.	86400	IN	NS	ns3.vhostdns.net.
+tricar.com.vn.	86400	IN	NS	ns4.vhostdns.net.
+tricar.com.vn.	14400	IN	A	103.27.60.222
+tricar.com.vn.	14400	IN	MX	0	tricar.com.vn.
+mail	14400	IN	CNAME	tricar.com.vn.
+www	14400	IN	CNAME	tricar.com.vn.
+ftp	14400	IN	A	103.27.60.222
+tricar.com.vn.	14400	IN	TXT	"v=spf1 +a +mx +ip4:103.27.60.222 ~all"
+webmail	14400	IN	A	103.27.60.222
+webdisk	14400	IN	A	103.27.60.222
+cpanel	14400	IN	A	103.27.60.222
+cpcalendars	14400	IN	A	103.27.60.222
+cpcontacts	14400	IN	A	103.27.60.222
+whm	14400	IN	A	103.27.60.222
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxPrBTaY6ZCjMLEgIwCUP8JuTlW3K6xOBE6aDa8dtDDnDsI59NCpquMk0PQbWT1hPBoQZFE7BJxCOo/a6kF1+zY+6bYG4iP68Q7Gdv7nY529eCFtuLENvW5/xOeff1r9oBFmKmTOzFiNRJoGSw+NTRXKhFL3ewL5QpNyT+l1cPmOR/8SQiFStg/fxqZi5TG/tW" bzFKPHhasMvtPJIZXrJqSNZDBumEXh1teytBY8b3PxnQlfmN9hAAoI5RyCKLKK9JRoxAQodcuJczUT5vAnnKa9dCT/o2bCsh0SKnHxbDdohoVro9EWNjdGBbgBLb1anVanaLg6OMFMDEv5AX2zI+wIDAQAB\;
