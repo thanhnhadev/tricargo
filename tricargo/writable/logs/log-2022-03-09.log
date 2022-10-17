@@ -1,0 +1,36 @@
+CRITICAL - 2022-03-09 20:57:55 --> Undefined variable: totalTime
+#0 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/Debug/Toolbar/Views/toolbar.tpl.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/honda/dom...', 56, Array)
+#1 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/Debug/Toolbar.php(498): include('/home/honda/dom...')
+#2 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/Debug/Toolbar.php(455): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 /home/honda/domains/honda.codechuanseo.com/public_html/app/Config/Events.php(44): CodeIgniter\Debug\Toolbar->respond()
+#4 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#5 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/Events/Events.php(188): call_user_func(Object(Closure))
+#6 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(293): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/honda/domains/honda.codechuanseo.com/public_html/index.php(48): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-09 21:24:49 --> Illegal string offset 'canonical'
+#0 /home/honda/domains/honda.codechuanseo.com/public_html/app/Views/frontend/homepage/common/footer.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/home/honda/dom...', 49, Array)
+#1 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/View/View.php(246): include('/home/honda/dom...')
+#2 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('frontend/homepa...', Array, true)
+#3 /home/honda/domains/honda.codechuanseo.com/public_html/app/Views/frontend/homepage/layout/home.php(75): view('frontend/homepa...')
+#4 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/View/View.php(246): include('/home/honda/dom...')
+#5 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('frontend/homepa...', Array, true)
+#6 /home/honda/domains/honda.codechuanseo.com/public_html/app/Controllers/Frontend/Homepage/Home.php(92): view('frontend/homepa...', Array)
+#7 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend\Homepage\Home->index()
+#8 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Homepage\Home))
+#9 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/honda/domains/honda.codechuanseo.com/public_html/index.php(48): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-09 21:24:51 --> Illegal string offset 'canonical'
+#0 /home/honda/domains/honda.codechuanseo.com/public_html/app/Views/frontend/homepage/common/footer.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/home/honda/dom...', 49, Array)
+#1 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/View/View.php(246): include('/home/honda/dom...')
+#2 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('frontend/homepa...', Array, true)
+#3 /home/honda/domains/honda.codechuanseo.com/public_html/app/Views/frontend/homepage/layout/home.php(75): view('frontend/homepa...')
+#4 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/View/View.php(246): include('/home/honda/dom...')
+#5 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render('frontend/homepa...', Array, true)
+#6 /home/honda/domains/honda.codechuanseo.com/public_html/app/Controllers/Frontend/Homepage/Home.php(92): view('frontend/homepa...', Array)
+#7 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend\Homepage\Home->index()
+#8 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Homepage\Home))
+#9 /home/honda/domains/honda.codechuanseo.com/public_html/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/honda/domains/honda.codechuanseo.com/public_html/index.php(48): CodeIgniter\CodeIgniter->run()
+#11 {main}
